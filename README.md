@@ -22,8 +22,8 @@ Epic Report Generator is a desktop app that connects to Jira Cloud, pulls Epic p
 - **FR-07. Velocity Calculation:** The system must calculate a rolling velocity based on the last 4 weeks of work (e.g., "4.0 SP/wk") to drive completion estimates.
 - **FR-08. Cycle Time Analysis:** The system must calculate the Average Cycle Time (in days) for issues within a specific Epic.
 - **FR-09. Scope Change Tracking:** The app must calculate and report the percentage of Scope Change to indicate how much an Epic's requirements have grown since its inception.
-- **FR-06. Predictive Forecasting:** Based on current velocity and remaining story points, the system must generate a Forecast Completion Date for each Epic.
-- **FR-07. PDF Report Generation:** The app must compile all tables and charts into a multi-page PDF document.
+- **FR-10. Predictive Forecasting:** Based on current velocity and remaining story points, the system must generate a Forecast Completion Date for each Epic.
+- **FR-11. PDF Report Generation:** The app must compile all tables and charts into a multi-page PDF document.
 
 ## Non-Functional Requirements
 
